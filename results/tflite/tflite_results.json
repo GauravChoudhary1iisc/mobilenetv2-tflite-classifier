@@ -1,0 +1,26 @@
+[
+  {
+    "variant": "keras (.keras file)",
+    "size_MB": 23.720585,
+    "test_acc": 0.8136,
+    "latency_ms": null
+  },
+  {
+    "variant": "tflite float32",
+    "size_MB": 9.547416,
+    "test_acc": 0.8128,
+    "latency_ms": 3.926926467102021
+  },
+  {
+    "variant": "tflite dynamic",
+    "size_MB": 2.695864,
+    "test_acc": 0.8164,
+    "latency_ms": 4.677495453506708
+  },
+  {
+    "variant": "tflite int8",
+    "size_MB": 2.900704,
+    "test_acc": 0.8156,
+    "latency_ms": 2.6187654584646225
+  }
+]

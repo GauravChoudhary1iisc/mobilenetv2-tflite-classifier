@@ -1,0 +1,17 @@
+{
+  "stage1_frozen_10ep": 0.7816,
+  "control_frozen_20ep": 0.7876,
+  "finetune_20ep": 0.8056,
+  "class_names": [
+    "caesar_salad",
+    "filet_mignon",
+    "french_fries",
+    "ice_cream",
+    "pizza",
+    "pork_chop",
+    "prime_rib",
+    "ramen",
+    "steak",
+    "sushi"
+  ]
+}

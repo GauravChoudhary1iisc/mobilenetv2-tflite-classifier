@@ -1,0 +1,16 @@
+# dataset and environment (too large / reproducible)
+food-101/
+food-101.tar.gz
+data/
+.venv/
+__pycache__/
+
+# large model artifacts
+*.keras
+*.h5
+*.npy
+*.tflite
+results/tflite/saved_model/
+
+# scratch
+verification1/
